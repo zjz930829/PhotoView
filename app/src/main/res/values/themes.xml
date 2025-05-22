@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.PhotoView" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Default_AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+<!--        <item name="colorPrimary">@color/colorPrimary</item>-->
+<!--        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+<!--        <item name="colorAccent">@color/colorAccent</item>-->
+<!--        <item name="buttonStyle">?android:attr/borderlessButtonStyle</item>-->
+<!--        <item name="android:navigationBarColor">@color/black_70</item>-->
+        <!--        <item name="editTextStyle">@style/EditTextStyle.Alignment</item>-->
+        <!--        <item name="android:textViewStyle">@style/TextView.Alignment</item>-->
+    </style>
+</resources>
